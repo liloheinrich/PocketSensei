@@ -1,6 +1,6 @@
 # Pocket Sensei
 
-Team members: Hazel Smith
+Team members: Hazel Smith, Lilo Heinrich
 
 Analyzing acceleration data to improve martial arts stances
 
