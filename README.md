@@ -1,5 +1,5 @@
 # Pocket Sensei
-Quantitative Engineering Analysis 2 Final Project
+Quantitative Engineering Analysis 2 Final Project, Fall 2021
 
 Team members: Hazel Smith, Lilo Heinrich
 
